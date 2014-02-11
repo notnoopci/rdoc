@@ -1,0 +1,18 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    hashr (0.0.22)
+    hoe (3.9.0)
+      rake (>= 0.8, < 11.0)
+    hoe-travis (1.2)
+      hoe (~> 3.0)
+      travis-lint (~> 1.2)
+    rake (10.1.1)
+    travis-lint (1.7.0)
+      hashr (~> 0.0.22)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  hoe-travis

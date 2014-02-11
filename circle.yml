@@ -1,3 +1,0 @@
-dependencies:
-  override:
-    - gem install hoe-travis --no-rdoc --no-ri
